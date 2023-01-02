@@ -1,6 +1,10 @@
 # Meu_Projeto-Html-Css
+https://campeoescopadomundo.000webhostapp.com/
 
 #Trabalho de faculdade, cujo objetivo era criar algumas páginas em Html e estilizar com Css.
+
+Site sobre futebol, mais especificamente sobre os campeões das Copas do Mundo, galeria dos estádios da ultima copa do mundo Catar 2022, links para 
+curiosidades, menus, formulário, etc ... 
 
 #University homework, whose objective was to create some pages in Html and style them with CSS.
 
